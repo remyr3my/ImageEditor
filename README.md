@@ -4,7 +4,7 @@ A simple basic application for a user to select images from Directory and save l
 
 # HomeView 
 - Contains a tableview displaying the image name,image,filesize,created Date.
-- On click on Save new images allows user to pick image from Documents are camera.
+- On click on Save new images allows user to pick image from Documents & camera.
 - On click the Cell will Redirect to ImageDetailController were you can perform some action.
 
 # Installation
